@@ -3,7 +3,7 @@
 - 👋 Hey, I’m Mansi.
 - 🌱 I’m currently understanding Machine Learning basics.
 - 💞️ I’m looking to collaborate on mini but creative projects.
-- 👀 I like to make my hands dirty in designing projects.
+- 👀 I would love to make my hands dirty in web development projects.
 - 📫 How to reach me : [Email](mansikatiyar16299@gmail.com)
 
 <!---
