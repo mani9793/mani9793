@@ -7,7 +7,7 @@
 - 📫 How to reach me : [Email](mansikatiyar16299@gmail.com)
 
 <!---
-mani9793/mani9793 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mani9793/mani9793 is a ✨ special ✨ repository because its ` README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in ....
 --->
